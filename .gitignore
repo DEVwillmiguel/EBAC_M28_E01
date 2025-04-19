@@ -12,3 +12,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/NewMap.umap
+Content/NewMap_HLOD0_Instancing.uasset
+Content/StarterContent/Maps/StarterMap.umap
+Content/StarterContent/Maps/StarterMap.umap
